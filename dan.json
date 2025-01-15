@@ -429,7 +429,7 @@
     {
       "name": "楠楠定制歌曲",
       "type": 0,
-      "url": "https://raw.gitcode.com/z199527/1122/raw/main/mv.txt",
+      "url": "https://raw.githubusercontent.com/nan199527/-/refs/heads/main/mv.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png"
